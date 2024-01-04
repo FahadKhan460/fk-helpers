@@ -2,7 +2,7 @@
  Laravel Dev Helper Functions
  
 ## Installation
- `composer require viitech/laravel-dev-helpers:master`
+ `composer require dilmune/laravel-dev-helpers`
  
 ## Middleware
  - CORS Middleware `\VIITech\Helpers\Middleware\CorsMiddleware::class`
